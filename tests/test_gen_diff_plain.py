@@ -1,4 +1,4 @@
-from src.scripts.gendiff import generate_diff
+from src.diff import generate_diff
 
 
 def test_gen_diff(first_file_data, second_file_data, answer):
