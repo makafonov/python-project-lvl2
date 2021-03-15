@@ -1,6 +1,6 @@
 # Вычислитель отличий
 
-[![Actions Status](https://github.com/makafonov/python-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/makafonov/python-project-lvl2/actions) [![Diff generator CI](https://github.com/makafonov/python-project-lvl2/actions/workflows/workflow.yml/badge.svg)](https://github.com/makafonov/python-project-lvl2/actions/workflows/workflow.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/04e6d64c0afc2c0a08e7/maintainability)](https://codeclimate.com/github/makafonov/python-project-lvl2/maintainability)
+[![Actions Status](https://github.com/makafonov/python-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/makafonov/python-project-lvl2/actions) [![Diff generator CI](https://github.com/makafonov/python-project-lvl2/actions/workflows/workflow.yml/badge.svg)](https://github.com/makafonov/python-project-lvl2/actions/workflows/workflow.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/04e6d64c0afc2c0a08e7/maintainability)](https://codeclimate.com/github/makafonov/python-project-lvl2/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/04e6d64c0afc2c0a08e7/test_coverage)](https://codeclimate.com/github/makafonov/python-project-lvl2/test_coverage)
 
 Вычислитель отличий – программа определяющая разницу между двумя структурами данных.
 
