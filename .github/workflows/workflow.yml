@@ -26,4 +26,10 @@ jobs:
         make lint
     - name: Test with pytest
       run: |
-        pytest
+        make test
+    - name: Code coverage
+      uses: paambaati/codeclimate-action@v2.2.4
+      env:
+        CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+      with:
+        coverageCommand: make coverage
