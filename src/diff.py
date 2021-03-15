@@ -1,3 +1,5 @@
+"""Модуль для работы с диффами."""
+
 import textwrap
 
 _OUTPUT_TEMPLATE = """
